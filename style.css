@@ -11,10 +11,9 @@ body{
 
 .textMod{
     margin: 20px;
-    padding: 5%;
     resize: none;
     border: none;
-    outline: none;
+    /*outline: none;*/
     color:#0A3871;
     font-family: 'Inter', sans-serif;
     font-weight: 400;
