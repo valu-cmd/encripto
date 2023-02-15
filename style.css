@@ -10,7 +10,8 @@ body{
 }
 
 .textMod{
-    position: absolute;
+    position: block;
+    width: 40%;
     margin: 90px;
     resize: none;
     border: none;
@@ -31,5 +32,5 @@ body{
 }
 
 .advertencia{
-    display: block;
+    display: inline-block;
 }
