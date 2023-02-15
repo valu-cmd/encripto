@@ -6,11 +6,12 @@ body{
 
 .logo{
     position: absolute;
-    margin: 20px;
+    margin: 15px;
 }
 
 .textMod{
-    margin: 20px;
+    position: absolute;
+    margin: 90px;
     resize: none;
     border: none;
     /*outline: none;*/
