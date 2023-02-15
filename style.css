@@ -4,7 +4,14 @@ body{
     font-style: normal;
 }
 
+.logo{
+    position: absolute;
+    margin: 20px;
+}
+
 .textMod{
+    margin: 20px;
+    padding: 5%;
     resize: none;
     border: none;
     outline: none;
