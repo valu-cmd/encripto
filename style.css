@@ -3,3 +3,21 @@ body{
     font-family: sans-serif;
     font-style: normal;
 }
+
+.textMod{
+    resize: none;
+    border: none;
+    color:#0A3871;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+
+}
+
+/*place holder with style*/
+::placeholder{
+    color: #0A3871;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
