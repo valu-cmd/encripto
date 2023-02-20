@@ -18,11 +18,12 @@ body{
 .text-item{
     display: flex;
     align-items: center;
+    margin: 2em;
+    margin-left: 9em;
 }
 
 .textMod{
     width: 40%;
-    margin: 2em;
     resize: none;
     border: none;
     outline: none;
