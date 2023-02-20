@@ -4,9 +4,14 @@ body{
     font-style: normal;
 }
 
-.logo{
-    position: absolute;
-    margin: 15px;
+.header .container-header{
+    display: flex;
+    align-items: center;
+}
+
+.logo-img{
+    width: 50px;
+    margin: 1em;
 }
 
 .textMod{
